@@ -1,5 +1,3 @@
-# Addition-and-Api-Inegration
-
 
 
 # Addition and API integration.
@@ -51,6 +49,13 @@ Start the server
 ```bash
   npm start
 ```
+
+
+## Tech Stack
+
+**Client:** React, Bootstap
+
+**Server:** Node, Express
 
 
 
