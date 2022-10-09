@@ -26,20 +26,20 @@
 ## Images
 - Home Page
   
-    <img src="./images/homePage.png" width="512"/>
+    <img src="./images/homePage.png" width="640"/>
   
 
 - Movies Page 
   
-  <img src="./images/moviesPage.png" width="256"/>
+  <img src="./images/moviesPage.png" width="640"/>
 
 - News Page
   
-    <img src="./images/newsImage.png" width="256"/>
+    <img src="./images/newsImage.png" width="640"/>
 
 - Entertaiment Page
   
-    <img src="./images/entertainmentImage.png" width="256"/>
+    <img src="./images/entertainmentImage.png" width="640"/>
 
 
 
