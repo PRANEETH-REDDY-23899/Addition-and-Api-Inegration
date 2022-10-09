@@ -8,7 +8,9 @@
     reactjs such as folder structure and single page application, reusable 
     components and easy routing.
 
-- I used two api's in these project one is tmbd movies api https://www.themoviedb.org/settings/api
+- I used two api's in these project one is tmbd movies api https://www.themoviedb.org/settings/api 
+-  Demo( https://praneeth-reddy-serch-movies.netlify.app/ )
+
     
 -   The other api that I used is https://newsapi.org/.
 
@@ -32,6 +34,10 @@
 - Movies Page 
   
   <img src="./images/moviesPage.png" width="640"/>
+  
+  
+  
+  
 
 - News Page
   
@@ -77,6 +83,12 @@ Start the server
 **Client:** React, Bootstap
 
 **Server:** Node, Express
+
+## Live Preview 
+
+Movies API Site : https://praneeth-reddy-serch-movies.netlify.app/
+Entire Site : https://praneeth-reddy-addition-and-api.netlify.app/
+
 
 
 
