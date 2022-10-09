@@ -23,6 +23,27 @@
 - express for backend.
 
 
+## Images
+- Home Page
+  
+    <img src="./images/homePage.png" width="256"/>
+  
+
+- Movies Page 
+  
+  <img src="./images/moviesPage.png" width="256"/>
+
+- News Page
+  
+    <img src="./images/newsImage.png" width="256"/>
+
+- Entertaiment Page
+  
+    <img src="./images/entertainmentImage.png" width="256"/>
+
+
+
+
 
 ## Run Locally
 
