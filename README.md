@@ -26,7 +26,7 @@
 ## Images
 - Home Page
   
-    <img src="./images/homePage.png" width="256"/>
+    <img src="./images/homePage.png" width="512"/>
   
 
 - Movies Page 
